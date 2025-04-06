@@ -1856,3 +1856,79 @@
 #35 /var/www/primula/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
 #36 {main}
 "} 
+[2025-04-06 12:46:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:47:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:48:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:49:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:50:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:51:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:52:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:53:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:54:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:55:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:56:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:57:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:58:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 12:59:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:00:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:01:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:02:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:03:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:04:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 

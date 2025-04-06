@@ -259,11 +259,11 @@ class SaleController extends Controller
         $items =array();
         // Set params
         $mid = $mealList->client->name ;
-        $store_name = 'SANTORINI';
-        $store_address = 'Av. Samora Machel , Número 393 , witbank , Matola C';
-        $store_phone = '848229877';
-        $store_email = 'info@santorini.co.mz';
-        $store_website = 'santorini.co.mz';
+        $store_name = "Bululu's Bar & Lounge";
+        $store_address = 'Rua da Mozal';
+        $store_phone = '842278856';
+        $store_email = '';
+        $store_website = '';
         $tax_percentage = 16;
         $transaction_id = $mealList->id;
         $currency=" MT ";
