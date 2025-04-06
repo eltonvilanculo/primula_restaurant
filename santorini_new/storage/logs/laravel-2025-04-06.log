@@ -1932,3 +1932,19 @@
 [stacktrace]
 #0 {main}
 "} 
+[2025-04-06 13:05:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:06:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:07:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
+[2025-04-06 13:08:39] local.ERROR: Cannot redeclare format_money() (previously declared in C:\Users\MK\Documents\WEBDEVELOPMENT\primula_restaurant\santorini_new\app\helpers.php:3) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare format_money() (previously declared in C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3) at C:\\Users\\MK\\Documents\\WEBDEVELOPMENT\\primula_restaurant\\santorini_new\\app\\helpers.php:3)
+[stacktrace]
+#0 {main}
+"} 
