@@ -26,7 +26,7 @@ services:
   app:
     build:
       context: .
-      dockerfile: Dockerfile.dev
+      dockerfile: Dockerfile
     command: >
         sh -c "php artisan config:cache &&
              until php artisan migrate; do
